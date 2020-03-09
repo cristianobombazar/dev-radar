@@ -1,0 +1,26 @@
+How to start?
+  node index.js (without 'live reload')
+  yarn nodemon index.js (with live reload)
+  yarn dev (with live reload)
+
+Glossary
+  -D (Dev dependencies)
+
+
+STEP 1
+  yarn init -y
+
+STEP 2
+  yarn add express
+
+STEP 3
+  create index.js  
+
+STEP 4
+  yarn add nodemon -D
+
+STEP 5
+  yarn add mongoose;
+
+STEP 6
+  yarn add axios;  
