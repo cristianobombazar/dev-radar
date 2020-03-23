@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="942a2541-0d99-4083-bf7d-35e27406c783" name="Default Changelist" comment="" />
+    <list default="true" id="942a2541-0d99-4083-bf7d-35e27406c783" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/omnistack10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/DevForm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/DevItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/DevItem/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/services/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Yub7z40LWBonHmERh3kbz16aS3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +37,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,10 +58,21 @@
       <option name="presentableId" value="Default" />
       <updated>1583795262941</updated>
       <workItem from="1583795265140" duration="25000" />
+      <workItem from="1584578725565" duration="2650000" />
+      <workItem from="1584723378665" duration="4489000" />
+      <workItem from="1584966103524" duration="1036000" />
+      <workItem from="1584967314975" duration="7000" />
+      <workItem from="1584984145043" duration="1913000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1543" y="28" key="CommitChangelistDialog2" timestamp="1584967320616">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1543" y="28" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1584967320616" />
   </component>
 </project>

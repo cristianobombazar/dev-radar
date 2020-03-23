@@ -1,0 +1,3 @@
+// components = Isolated block of HTML, CSS and JS, which doesn't inferring in the rest of application.
+// Property: Information that a parent component pass to the child component.
+// State: Information bold by component (Immutability)
