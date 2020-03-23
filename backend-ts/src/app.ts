@@ -1,5 +1,5 @@
 import express, {Application } from 'express';
-import mongoose from 'mongoose';
+import mongoose, {Mongoose} from 'mongoose';
 import routes from './routes';
 
 class App {
@@ -22,6 +22,8 @@ class App {
         mongoose.connect('mongodb+srv://mongo:mongodb@omnistack10-jvggi.mongodb.net/week10?retryWrites=true&w=majority',{
             useNewUrlParser: true,
             useUnifiedTopology: true
+        }).then((value: Mongoose) => {
+            console.log('Connected to mongodb. Version: '+value.version);
         });
     };
 
