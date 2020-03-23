@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="942a2541-0d99-4083-bf7d-35e27406c783" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/omnistack10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/Main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/Sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/components/DevForm/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/components/DevItem/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/components/DevItem/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/services/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/pages/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/pages/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/services/api.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/SearchController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/SearchController.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +52,8 @@
       <workItem from="1584966103524" duration="1036000" />
       <workItem from="1584967314975" duration="7000" />
       <workItem from="1584984145043" duration="1913000" />
+      <workItem from="1585000363156" duration="29000" />
+      <workItem from="1585000731589" duration="1182000" />
     </task>
     <servers />
   </component>

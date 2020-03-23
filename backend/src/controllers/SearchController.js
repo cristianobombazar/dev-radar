@@ -3,6 +3,9 @@ const parseStringAsArray = require('../utils/parseStringAsArray');
 
 module.exports = {
   async search(request, response) {
+    console.log("Entrou aqui");
+    console.log(request.query.latitude);
+    console.log(request.query.longitude);
     const {latitude, longitude, techs} = request.query;
     const techsArray = parseStringAsArray(techs);
 
@@ -16,7 +19,7 @@ module.exports = {
             type: 'Point',
             coordinates: [longitude, latitude],
           },
-          $maxDistance: 10000
+          $maxDistance: 120000
         }
       }
     });
