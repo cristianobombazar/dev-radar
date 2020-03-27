@@ -1,6 +1,6 @@
 # Project exclude paths
 /backend/node_modules/
 backend-ts/node_modules
-backend-s/node_modules/
+backend-ts/node_modules/
 frontend/node_modules
 mobile/node_modules
