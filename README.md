@@ -6,16 +6,16 @@
   🚀 Semana OmniStack 10.0
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cristianobombazar/dev-radar">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/cristianobombazar/dev-radar">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+  <a href="https://github.com/cristianobombazar/dev-radar/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cristianobombazar/dev-radar">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
+  <a href="https://github.com/cristianobombazar/dev-radar/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/cristianobombazar/dev-radar">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -69,4 +69,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by cristianobombazar :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
